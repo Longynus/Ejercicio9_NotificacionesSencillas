@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ejercicio9_NotificacionesSencillas</string>
+    <string name="tv1">¿Cual es el numero que vio?</string>
+    <string name="button">Controlar</string>
+</resources>
